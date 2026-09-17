@@ -9,6 +9,13 @@ chmod +x crossover.sh
 ./crossover.sh
 ```
 
+# Run to uninstall
+
+```
+sh ~/CrossOverLicence/main.sh uninstall
+```
+---
+
 # What makes this different from other CrossOver scripts?
 
 This script has the ability to renew the trial automatically after days and after every reboot, if you choose to install rather than just execute.
