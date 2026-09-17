@@ -16,13 +16,6 @@ crossover renew
 crossover uninstall
 ```
 
-# Run to uninstal
-
-```
-crossover uninstall
-```
----
-
 # What makes this different from other CrossOver scripts?
 
 This script has the ability to renew the trial automatically after days and after every reboot, if you choose to install rather than just execute.
