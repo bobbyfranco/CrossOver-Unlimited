@@ -1,4 +1,5 @@
 # CrossOver-Unlimited
+
 A simple script that can renew CrossOver trial automatically.
 ===
 
@@ -9,6 +10,7 @@ chmod +x crossover.sh
 ```
 
 # What makes this different from other CrossOver scripts?
+
 This script has the ability to renew the trial automatically after days and after every reboot, if you choose to install rather than just execute.
 ===
 
