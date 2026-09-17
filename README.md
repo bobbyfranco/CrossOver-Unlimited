@@ -7,12 +7,16 @@ A simple script that can renew CrossOver trial automatically.
 Usage:
 chmod +x crossover.sh
 ./crossover.sh
+Run  installer
+
+crossover renew
+crossover uninstall
 ```
 
 # Run to uninstal
 
 ```
-./crossover.sh uninstall
+crossover uninstall
 ```
 ---
 
@@ -21,4 +25,4 @@ chmod +x crossover.sh
 This script has the ability to renew the trial automatically after days and after every reboot, if you choose to install rather than just execute.
 ---
 
-I can't really take credit for this script, I found this from some random user, but it was no longer working correctly. All I did was recreate the gist, fix some grammar and code.
+I can't really take credit for this script, I found this from some random user, but it was no longer working correctly. All I did was recreate the gist, fix some grammar and updated the code.
