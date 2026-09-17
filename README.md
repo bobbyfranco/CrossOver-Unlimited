@@ -12,7 +12,7 @@ chmod +x crossover.sh
 # Run to uninstal
 
 ```
-sh ./crossover.sh uninstall
+./crossover.sh uninstall
 ```
 ---
 
