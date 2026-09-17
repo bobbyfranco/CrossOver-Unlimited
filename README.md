@@ -9,10 +9,10 @@ chmod +x crossover.sh
 ./crossover.sh
 ```
 
-# Run to uninstall
+# Run to uninstal
 
 ```
-sh ~/CrossOverLicence/main.sh uninstall
+sh ./crossover.sh uninstall
 ```
 ---
 
